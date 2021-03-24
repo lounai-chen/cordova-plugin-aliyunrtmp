@@ -273,8 +273,8 @@ NSString* playStatusString;
     
     
 }
-NSString* accessKeyID = @"LTAIws6lLFxkpMFu";
-NSString* accessKeySecret = @"LnBQte8LNqpCpRXoEWBNZf6lrqxXsh";
+NSString* accessKeyID = @"xxxxxx";
+NSString* accessKeySecret = @"xxxxxx";
 -(AliVcAccesskey*)getAccessKeyIDSecret
 {
     AliVcAccesskey* accessKey = [[AliVcAccesskey alloc] init];
